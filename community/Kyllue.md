@@ -12,6 +12,7 @@
 
 ## Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEUUSERNAME/](https://www.linkedin.com/in/samara-louren%C3%A7o-67353723a/)) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:sammy_linoy@outlook.com)
+[![Static Badge](https://img.shields.io/badge/DIO-purple?style=for-the-badge&logoSize=auto)]([https://dio.me/users/SEUUSERNAME](https://dio.me/users/sammy_linoy))
 
 ## Habilidades
 - Aprendizado rápido e facilidade com novas ferramentas
